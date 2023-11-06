@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">matchuax</string>
+
+
+    <!-- Chats -->
+    <string name="maria">María</string>
+    <string name="mensajeMaria">🔈 Audio</string>
+
+    <string name="teresa">Teresa</string>
+    <string name="mensajeTeresa">Cuando quieras jaja</string>
+
+    <string name="paula">Paula</string>
+    <string name="mensajePaula">Muchas gracias!! 🥰</string>
+
+    <string name="andrea">Andrea</string>
+    <string name="mensajeAndrea">📸 Foto</string>
+
+    <string name="lucia">Lucia</string>
+    <string name="mensajeLucia">Esq no me gustas jeje</string>
+    <string name="sinLeerLucia">1</string>
+
+    <string name="sofia">Sofia</string>
+    <string name="mensajeSofia">Ahora estoy en clase pr nos podemos…</string>
+
+    <string name="martina">Martina</string>
+    <string name="mensajeMartina">Asi q ya nos veremos alli</string>
+    <string name="sinLeerMartina">3</string>
+
+
+    <!-- Conversaciones -->
+    <string name="mensaje">Mensaje</string>
+
+    <string name="mensaje1">Hola!</string>
+    <string name="mensaje2">¿De dónde eres?</string>
+    <string name="mensaje3">Yo soy de Madrid</string>
+    <string name="mensaje4">¿Y tu?</string>
+    <string name="mensaje5">Yo de Zaragoza</string>
+    <string name="mensaje6">De este pequeño pueblo</string>
+    <string name="mensaje7">📸 Foto</string>
+    <string name="mensaje8">Que bonito!!</string>
+    <string name="mensaje9">Jaja</string>
+    <string name="mensaje10">La verdad que si</string>
+    <string name="mensaje11">Tu estas estudiando medicina, ¿verdad?</string>
+    <string name="mensaje12">Si, en el edificio A, ¿y tú?</string>
+    <string name="mensaje13">🔈 Audio</string>
+
+
+</resources>
